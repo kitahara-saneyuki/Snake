@@ -1,0 +1,28 @@
+NET R LOC = N7;
+NET G LOC = V6;
+NET B LOC = T7;
+
+NET "HS" LOC = N6;
+NET "VS" LOC = P7;
+
+NET "left"	LOC = C4;
+NET "right" LOC = D9;
+NET "up" 	LOC = A8;
+NET "down" 	LOC = C9;
+NET "reset" LOC = B8;
+
+NET "clk" LOC = V10;
+
+NET "AN[0]" LOC=N16;
+NET "AN[1]" LOC=N15;
+NET "AN[2]" LOC=P18;
+NET "AN[3]" LOC=P17;
+NET "seven[0]" LOC = T17;
+NET "seven[1]" LOC = T18;
+NET "seven[2]" LOC = U17;
+NET "seven[3]" LOC = U18;
+NET "seven[4]" LOC = M14;
+NET "seven[5]" LOC = N14;
+NET "seven[6]" LOC = L14;
+
+NET "speed" LOC = T5;
